@@ -4,7 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Note
-The other devices (except r8s and c1s) have not been tested, you can try them if it works for you, let me know.
+The other devices (except r8s, x1s and c1s) have not been tested, you can try them if it works for you, let me know on [telegram](https://t.me/Sota4Ever)
 
 ## Credits
 
@@ -21,6 +21,7 @@ ________
 ## [Requirements for installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Requirements-for-installation.md)
 ## [Building](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Building.md)
 ## [Installation](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/Installation.md)
+## [Tinker](https://github.com/Sota4Ever/samsung-S20FE/blob/halium-13-r8s/tinker.md)
 # Everything is in process
 
 <p align="center">
